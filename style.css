@@ -35,10 +35,10 @@ img{
     width: 120px;
     height: 30px;
     border-radius: 7px;
+    cursor: pointer;
 }
 #privacyClick:hover{
-    font-weight: bolder;
-    transition: 0.8s;
+    transition: 1s;
     box-shadow: 3px 3px;
 }
 .notice{
